@@ -1,0 +1,29 @@
+/* Fonte do site */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Parágrafos */
+p {
+    font-size: 20px;
+}
+
+/* Filmes de hoje */
+.hoje {
+    color: darkred;
+}
+
+/* Filmes de amanhã */
+.amanha {
+    color: darkblue;
+}
+
+/* Remove sublinhado dos links */
+a {
+    text-decoration: none;
+}
+
+/* Links dentro do h2 */
+h2 a {
+    color: seagreen;
+}
